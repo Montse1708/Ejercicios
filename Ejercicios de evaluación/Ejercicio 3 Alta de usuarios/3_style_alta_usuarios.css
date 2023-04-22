@@ -1,0 +1,32 @@
+body {
+    background: #4ECDC4;
+    background: -webkit-linear-gradient(to right, #556270, #4ECDC4);
+    background: linear-gradient(to right, #556270, #4ECDC4);
+}
+
+.card-header {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    background: #141E30;
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);
+    background: linear-gradient(to right, #243B55, #141E30);
+    color: white;
+}
+
+.card {
+    width: 500px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+label {
+    font-weight: bold;
+    font-size: 18px;
+}
+

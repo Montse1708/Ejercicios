@@ -1,0 +1,23 @@
+<div class="container" id="container">
+	<div class="form-container sign-in-container">
+		<form action="#">
+			<h1>Ingresar datos</h1>
+			<input placeholder="Nombre completo" />
+            <input placeholder="Fecha de nacimiento" />
+            <input placeholder="Usuario"/>
+            <input placeholder="Contraseña"/>
+			<button>Guardar</button>
+		</form>
+	</div>
+	<div class="overlay-container">
+		<div class="overlay">
+			<div class="overlay-panel overlay-left">
+
+			</div>
+			<div class="overlay-panel overlay-right">
+				
+			</div>
+		</div>
+	</div>
+</div>
+    
